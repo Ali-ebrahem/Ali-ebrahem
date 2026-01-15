@@ -56,9 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
